@@ -31,5 +31,5 @@ a {
 
 .code-of-conduct {
   text-align: start;
-  width: 500px;
+  max-width: 500px;
 }
