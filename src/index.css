@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  margin: 0;
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h3 {
+  text-align: center;
+}
+.tile {
+  background: rgb(244, 244, 244);
+  border-radius: 2px;
+  border: 1px solid black;
+  width: 200px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 16px;
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+.code-of-conduct {
+  text-align: start;
+  width: 500px;
+}
